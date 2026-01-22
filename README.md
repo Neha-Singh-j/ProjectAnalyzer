@@ -5,6 +5,11 @@
 Project Analyzer is a web application that helps analyze projects by parsing their details, identifying the tech stack, and generating role-based personalized questions.  
 It provides both frontend and backend functionality with AI-powered insights.
 
+Helps users prepare for interviews
+
+Uses real experiences / real actions
+
+Focuses on practical learning
 ---
 
 ## 🚀 Features
